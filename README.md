@@ -6,6 +6,10 @@ This is my private space for development projects, to do some tinkering on my ow
 - I used to develop Java for some time. At work, Java is the language we use to build our product GlucoTab.
 - However, recently I have been working with Python and with C# at work.
 
+## Interesting links for github and git
+- Guide to [.md markdown formatting](https://www.markdownguide.org/basic-syntax/)
+- [Git Book](https://git-scm.com/book/de/v2) (deutsch)
+
 <!---
 - 👋 Hi, I’m @peter-b4
 - 👀 I’m interested in ...
